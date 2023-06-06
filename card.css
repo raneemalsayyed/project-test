@@ -16,8 +16,6 @@ main {
 .back {
     display: block;
     width: inherit;
-    background-size: cover !important;
-    background-position: center !important;
     height: 300px;
     padding: 15px;
     background: #F5F5F5;
